@@ -12,11 +12,8 @@ The system converts the input image to grayscale, applies Gaussian blurring to r
 
 Key functionalities include:
 Uploading and analyzing medical images (e.g., X-ray scans).
-
 Preprocessing the image using grayscale conversion and Gaussian blur.
-
 Applying thresholding and contour detection to isolate abnormal regions.
-
 Drawing bounding boxes to highlight detected abnormalities.
 
 The project was developed as part of the Naan Mudhalvan Training Program and demonstrates a practical application of computer vision in the healthcare domain for early-stage analysis and detection.
